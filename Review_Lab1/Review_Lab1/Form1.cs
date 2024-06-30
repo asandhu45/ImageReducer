@@ -1,6 +1,4 @@
 ﻿//Name : Amanjot Singh Sandhu
-//Section : A01
-//Submission code : CMPE2800_1232_Lab01
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
